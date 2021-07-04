@@ -82,7 +82,7 @@ sections:
   - type: features_section
     features:
       - title: “Daspu is THE technical support agent every company has dreamed of.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Somebody, someday'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
