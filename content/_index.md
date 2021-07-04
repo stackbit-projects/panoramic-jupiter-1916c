@@ -81,9 +81,7 @@ sections:
     background_color: secondary
   - type: features_section
     features:
-      - title: >-
-          “Stackbit is fast! Themes are always up to date. It’s easy to use
-          across the organization, and collaboration is easy.”
+      - title: “Daspu is THE technical support agent every company has dreamed of.”
         subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
